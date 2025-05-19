@@ -6,7 +6,7 @@
 header {
   height: 100vh;      /* Full viewport height */
   min-height: 100px;  /* Minimum height, just in case */
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../aa.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('aa.jpg');
   background-size: cover;
   background-position: center;
 }
